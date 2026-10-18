@@ -43,8 +43,6 @@ Aplicación web para registrar y consultar incidencias vecinales, como problemas
 - **Persistencia:** MySQL y Spring Data JPA.
 - **Mapas:** Leaflet y React Leaflet.
 
-[Ver repositorio de VecinoSeguro](https://github.com/EduardoAmes28/vecino-seguro)
-
 ## 📫 Encuéntrame en GitHub
 
 [![GitHub profile](https://img.shields.io/badge/Visitar_perfil-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/EduardoAmes28)
