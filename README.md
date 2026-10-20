@@ -3,7 +3,7 @@
 
 # Eduardo Ames 👋
 
-### Desarrollador Full Stack Junior
+### Desarrollador Full Stack 
 
 Construyendo aplicaciones web y aprendiendo con proyectos reales.
 
